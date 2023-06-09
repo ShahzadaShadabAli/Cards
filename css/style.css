@@ -1,0 +1,94 @@
+.main-div{
+    height: 100vh !important;
+}
+.img{
+    height: 360px !important;
+}
+.blur{
+    color: rgb(199, 197, 197);
+    font-size: 17px;
+}
+.bg-1{
+    background-image: url("../images/eberhard-grossgasteiger-J9NDmBVhN04-unsplash.jpg");
+    height: 22rem;
+    background-size: cover;
+}
+.bg-2{
+    background-image: url("../images/nate-rayfield-_WR6tUIAJe8-unsplash.jpg");
+    height: 22rem;
+    background-size: cover;
+}
+.heading{
+    display: block;
+    margin: 0px 20px 5px 20px;
+    color: white;
+    font-size: 30px;
+}
+.location{
+    margin-bottom: 20px;
+    color: white;
+    font-size: 20px;
+}
+.temp{
+    margin-top: 30px;
+    color: #fff;
+    font-size: 60px !important;
+}
+.img{
+    background-image: url("../images/szymon-shields--OWTmIaVksg-unsplash.jpg");
+    background-size: cover;
+    height: 50% !important;
+}
+.round-img{
+    height: 100px !important;
+    width: 100px !important;
+    border-radius: 50%;
+}
+h2{
+    font-family:Arial, Helvetica, sans-serif!important;
+    font-weight: bolder;
+}
+.text-cloud{
+    color: rgb(209, 208, 208);
+    font-size: 20px;
+    font-family: monospace;
+    font-weight:700;
+}
+.img-div1{
+    background-image: url("../images/laptop-1.jpg") !important;
+    background-size: cover;
+    height: 200px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+.img-div2{
+    background-image: url("../images/laptop-2.jpg") !important;
+    background-size: cover;
+    height: 200px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+.asus{
+    padding: 3px 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px ;
+    font-weight: bolder;
+    border-radius: 20px;
+     
+}
+.div-pricing{
+  position: relative;
+  top: 170px;
+}
+.info{
+    font-weight: bolder;
+    font-size: 15px;
+    display: block;
+    padding-bottom: 16px;
+}
+.btn-orange{
+    background-color: rgb(255, 114, 20);
+    border-radius: 50px !important;
+    border: solid  rgb(255, 114, 20) ;
+    box-shadow:0px 3px 6px rgb(182, 181, 181) ;
+}
